@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "483650651512",
+    "firebase_url": "https://dhtsensor-9fa93-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dhtsensor-9fa93",
+    "storage_bucket": "dhtsensor-9fa93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483650651512:android:03592c338f4db4cadcf48d",
+        "android_client_info": {
+          "package_name": "com.example.sensor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483650651512-goovrc5fq9mh6llodn0r5a1k3fnhsapq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8R7NbTy6vFVUfQCjOIB6LXIPoJwiYAzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483650651512-goovrc5fq9mh6llodn0r5a1k3fnhsapq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
