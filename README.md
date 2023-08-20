@@ -18,6 +18,8 @@ automatic modes. Ideal for analyzing and monitoring industrial equipment.
 <img width="125" alt="sht20" src="https://github.com/yash379/Industrial-Equipment-Monitoring/assets/66986901/cd817470-e377-484b-9f15-d77a01a5cec5">
 SHT20 SENSOR 
 
-<img width="178" alt="con rs485" src="https://github.com/yash379/Industrial-Equipment-Monitoring/assets/66986901/2c2b0633-539d-4824-8289-db1f626cc2c0">
 
+
+
+<img width="178" alt="con rs485" src="https://github.com/yash379/Industrial-Equipment-Monitoring/assets/66986901/2c2b0633-539d-4824-8289-db1f626cc2c0">
 USB to rs485 converter
